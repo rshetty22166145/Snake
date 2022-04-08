@@ -10,5 +10,5 @@ python3 -m pip install -U pygame --user
 ```
 ## 2- Simply clone the repo and run snakes.py 
 
-##Demo:
+## Demo:
 https://user-images.githubusercontent.com/62463648/162349175-c7aa899f-8385-48a7-8ad9-ff0936feeb6a.mov
